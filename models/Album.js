@@ -3,7 +3,7 @@ const Schema = mongoose.Schema;
 
 let Album = new Schema({
   title: { type: String },
-  yearRecorded: { type: String, type: Number },
+  yearRecorded: { type: String },
   releaseDate: { type: String },
   length: { type: Number },
   albumType: { type: String },

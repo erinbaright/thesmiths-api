@@ -1,7 +1,7 @@
 [
   {
     "title": "The Smiths",
-    "yearRecorded": 1983,
+    "yearRecorded": "1983",
     "releaseDate": "1984-02-20",
     "length": 2575,
     "albumType": "Studio",
@@ -13,7 +13,7 @@
   },
   {
     "title": "Meat Is Murder",
-    "yearRecorded": 1984,
+    "yearRecorded": "1984",
     "releaseDate": "1985-02-11",
     "length": 2386,
     "albumType": "Studio",
@@ -25,7 +25,7 @@
   },
   {
     "title": "The Queen Is Dead",
-    "yearRecorded": 1985,
+    "yearRecorded": "1985",
     "releaseDate": "1986-06-16",
     "length": 2208,
     "albumType": "Studio",
@@ -37,7 +37,7 @@
   },
   {
     "title": "Strangeways, Here We Come",
-    "yearRecorded": 1987,
+    "yearRecorded": "1987",
     "releaseDate": "1987-09-28",
     "length": 2197,
     "albumType": "Studio",
@@ -49,7 +49,7 @@
   },
   {
     "title": "Rank",
-    "yearRecorded": 1986,
+    "yearRecorded": "1986",
     "releaseDate": "1988-09-05",
     "length": 3356,
     "albumType": "Live",

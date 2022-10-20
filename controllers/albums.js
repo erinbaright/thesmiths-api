@@ -26,6 +26,22 @@ export const getAlbum = async (req, res) => {
   }
 };
 
+export const getAlbumTitle = async (req, res) => {
+  try {
+    const { title } = req.params;
+    const album = await Album.find({title: title});
+
+    if (album) {
+      return res.json(album);
+    }
+
+    res.status(404).json({ message: "Album not found!" });
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ error: error.message });
+  }
+};
+
 export const createAlbum = async (req, res) => {
   try {
     const album = new Album(req.body);

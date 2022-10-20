@@ -1,5 +1,5 @@
 import { Router } from "express";
-import albumRoutes from "./albums.js";
+import albumsRoutes from "./albums.js";
 
 const router = Router();
 
