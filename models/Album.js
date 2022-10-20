@@ -12,6 +12,8 @@ let Album = new Schema({
   ukGold: { type: Boolean },
   ukPlatinum: { type: Boolean },
   usGold: { type: Boolean },
+  songs: [{type: String}],
+  img: { type: String }
 });
 
 export default mongoose.model("albums", Album);

@@ -26,7 +26,7 @@ export const getAlbum = async (req, res) => {
   }
 };
 
-export const getAlbumTitle = async (req, res) => {
+export const getAlbumByTitle = async (req, res) => {
   try {
     const { title } = req.params;
     const album = await Album.find({title: title});
