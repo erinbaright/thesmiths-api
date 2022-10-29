@@ -13,8 +13,10 @@
     "ukGold": true,
     "ukPlatinum": false,
     "usGold": false,
-    "songs": ["Reel Around The Fountain", "You've Got Everything Now", "Miserable Lie", "Pretty Girls Make Graves", "The Hand That Rocks The Cradle", "Still Ill", "Hand In Glove", "What Difference Does It Make?", "I Don't Owe You Anything", "Suffer Little Children"],
-    "img": "https://upload.wikimedia.org/wikipedia/en/1/13/The_Smiths_The_Smiths.jpg"
+    "songs": ["Reel Around The Fountain", "You've Got Everything Now", "Miserable Lie", "Pretty Girls Make Graves", "The Hand That Rocks The Cradle", "This Charming Man", "Still Ill", "Hand In Glove", "What Difference Does It Make?", "I Don't Owe You Anything", "Suffer Little Children"],
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/13/The_Smiths_The_Smiths.jpg",
+    "spotifyLink": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN?si=x3xKZujjStyyZevHKxof7g",
+    "appleMusicLink": "https://music.apple.com/us/album/the-smiths/799995884"
   },
   {
     "title": "Meat Is Murder",
@@ -31,7 +33,9 @@
     "ukPlatinum": false,
     "usGold": false,
     "songs": ["The Headmaster Ritual", "Rusholme Ruffians", "I Want The One I Can't Have", "What She Said", "That Joke Isn't Funny Anymore", "Nowhere Fast", "Well I Wonder", "Barbarism Begins At Home", "Meat Is Murder"],
-    "img": "https://upload.wikimedia.org/wikipedia/en/b/b8/MeatMurder.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/b8/MeatMurder.jpg",
+    "spotifyLink": "https://open.spotify.com/album/5DM1qCdgGt2zbknnsVn1Ca?si=XvmY7eanQcGSSbGiWKLGrw",
+    "appleMusicLink": "https://music.apple.com/us/album/meat-is-murder/799986977"
   },
   {
     "title": "The Queen Is Dead",
@@ -48,7 +52,9 @@
     "ukPlatinum": true,
     "usGold": true,
     "songs": ["The Queen Is Dead", "Frankly, Mr. Shankly", "I Know It's Over", "Never Had No One Ever", "Cemetry Gates", "Bigmouth Strikes Again", "The Boy With The Thorn In His Side", "Vicar In A Tutu", "There Is A Light That Never Goes Out", "Some Girls Are Bigger Than Others"],
-    "img": "https://en.wikipedia.org/wiki/The_Queen_Is_Dead#/media/File:The-Queen-is-Dead-cover.png"
+    "img": "https://en.wikipedia.org/wiki/The_Queen_Is_Dead#/media/File:The-Queen-is-Dead-cover.png",
+    "spotifyLink": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7?si=APMe4WCETZSv3c0A9es4iw",
+    "appleMusicLink": "https://music.apple.com/us/album/the-queen-is-dead/800092985"
   },
   {
     "title": "Strangeways, Here We Come",
@@ -65,7 +71,9 @@
     "ukPlatinum": false,
     "usGold": true,
     "songs": ["A Rush And A Push And The Land Is Ours", "I Started Something I Couldn't Finish", "Death Of A Disco Dancer", "Girlfriend In A Coma", "Stop Me If You Think You've Heard This One Before", "Last Night I Dreamt That Somebody Loved Me", "Unhappy Birthday", "Paint A Vulgar Picture", "Death At One's Elbow", "I Won't Share You"],
-    "img": "https://upload.wikimedia.org/wikipedia/en/3/37/Smiths_-_Strangeways_here_we_come.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/en/3/37/Smiths_-_Strangeways_here_we_come.jpg",
+    "spotifyLink": "https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg?si=NJV4k_HsQJKc8mO4lkoxIg",
+    "appleMusicLink": "https://music.apple.com/us/album/strangeways-here-we-come/799980711"
   },
   {
     "title": "Rank",
@@ -84,7 +92,9 @@
     "songs": [
       "The Queen Is Dead", "Panic", "Vicar in a Tutu", "Ask", "His Latest Flame/Rusholme Ruffians (Medley)", "The Boy with the Thorn in His Side", "Rubber Ring/What She Said (Medley)", "Is It Really So Strange?", "Cemetry Gates", "London", "I Know It's Over", "The Draize Train", "Still Ill", "Bigmouth Strikes Again"
     ],
-    "img": "https://upload.wikimedia.org/wikipedia/en/e/e1/SmithsRank.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e1/SmithsRank.jpg",
+    "spotifyLink": "https://open.spotify.com/album/06Ey2y54V4aGjP5EsovA2O?si=ozqLKcAwT920Pmr3wRODTg",
+    "appleMusicLink": "https://music.apple.com/us/album/rank/799978884"
   },
   {
     "title": "Hatful of Hollow",
@@ -103,7 +113,9 @@
     "songs": [
         "William, It Was Really Nothing", "What Difference Does It Make?", "These Things Take Time", "This Charming Man", "How Soon Is Now?", "Handsome Devil", "Hand In Glove", "Still Ill", "Heaven Knows I'm Miserable Now", "This Night Has Opened My Eyes", "You've Got Everything Now", "Accept Yourself", "Girl Afraid", "Back To The Old House", "Reel Around The Fountain", "Please Please Please Let Me Get What I Want"
     ],
-    "img": "https://upload.wikimedia.org/wikipedia/en/1/15/HatfulofHollow84.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/15/HatfulofHollow84.jpg",
+    "spotifyLink": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv?si=hgK8ZukMQvK60hG_zjpAnA",
+    "appleMusicLink": "https://music.apple.com/us/album/hatful-of-hollow/799969670"
   },
   {
     "title": "The World Won't Listen",
@@ -122,7 +134,9 @@
     "songs": [
         "Panic", "Ask", "London", "Bigmouth Strikes Again", "Shakespeare's Sister", "There Is a Light That Never Goes Out", "Shoplifters of the World Unite", "The Boy with the Thorn in His Side", "Money Changes Everything", "Asleep", "Unloveable", "Half a Person", "Stretch Out and Wait", "That Joke Isn't Funny Anymore", "Oscillate Wildly", "You Just Haven't Earned It Yet, Baby", "Rubber Ring"
     ],
-    "img": "https://upload.wikimedia.org/wikipedia/en/8/85/TWWL.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/en/8/85/TWWL.jpg",
+    "spotifyLink": "https://open.spotify.com/album/2clbQSNocEJCzkuPPuc00q?si=sGqicKBmQk-UrDJ7yZ4Wdg",
+    "appleMusicLink": "https://music.apple.com/us/album/the-world-wont-listen/802214888"
   },
   {
     "title": "Louder Than Bombs",
@@ -141,7 +155,9 @@
     "songs": [
         "Is It Really So Strange?", "Sheila Take a Bow", "Shoplifters of the World Unite", "Sweet and Tender Hooligan", "Half a Person", "London", "Panic", "Girl Afraid", "Shakespeare's Sister", "William, It Was Really Nothing", "You Just Haven't Earned It Yet, Baby", "Heaven Knows I'm Miserable Now", "Ask", "Golden Lights", "Oscillate Wildly", "These Things Take Time", "Rubber Ring", "Back to the Old House", "Hand in Glove", "Stretch Out and Wait", "Please Please Please Let Me Get What I Want", "This Night Has Opened My Eyes", "Unloveable", "Asleep"
     ],
-    "img": "https://upload.wikimedia.org/wikipedia/en/6/6a/LouderThanBombs.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/en/6/6a/LouderThanBombs.jpg",
+    "spotifyLink": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8?si=r5X4lMmoTaOA-rQuEp1FZA",
+    "appleMusicLink": "https://music.apple.com/us/album/louder-than-bombs/802231063"
   },
   {
     "title": "Best... I",
@@ -158,7 +174,9 @@
     "ukPlatinum": false,
     "usGold": false,
     "songs": ["This Charming Man", "William, It Was Really Nothing", "What Difference Does It Make?", "Stop Me If You Think You've Heard This One Before", "Girlfriend In A Coma", "Half A Person", "Rubber Ring", "How Soon Is Now?", "Hand In Glove", "Shoplifters Of The World Unite", "Sheila Take A Bow", "Some Girls Are Bigger Than Others", "Panic", "Please, Please, Please, Let Me Get What I Want"],
-    "img": "https://upload.wikimedia.org/wikipedia/en/6/65/UKBest1.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/en/6/65/UKBest1.jpg",
+    "spotifyLink": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8?si=H-waKZHuQHGMwaCH8IbywQ",
+    "appleMusicLink": "https://music.apple.com/us/artist/the-smiths/829538"
   },
   {
     "title": "...Best II",
@@ -175,7 +193,9 @@
     "ukPlatinum": false,
     "usGold": false,
     "songs": ["The Boy with the Thorn in His Side", "The Headmaster Ritual", "Heaven Knows I'm Miserable Now", "Ask", "Oscillate Wildly", "Nowhere Fast", "Still Ill", "Bigmouth Strikes Again", "That Joke Isn't Funny Anymore", "Shakespeare's Sister", "Girl Afraid", "Reel Around the Fountain", "Last Night I Dreamt That Somebody Loved Me", "There Is a Light That Never Goes Out"],
-    "img": "https://upload.wikimedia.org/wikipedia/en/3/33/UKBest2.JPG"
+    "img": "https://upload.wikimedia.org/wikipedia/en/3/33/UKBest2.JPG",
+    "spotifyLink": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8?si=H-waKZHuQHGMwaCH8IbywQ",
+    "appleMusicLink": "https://music.apple.com/us/artist/the-smiths/829538"
   },
   {
     "title": "Singles",
@@ -192,7 +212,9 @@
     "ukPlatinum": true,
     "usGold": false,
     "songs": ["Hand in Glove", "This Charming Man", "What Difference Does It Make?", "Heaven Knows I'm Miserable Now", "William, It Was Really Nothing", "How Soon Is Now?", "Shakespeare's Sister", "That Joke Isn't Funny Anymore", "The Boy with the Thorn in His Side", "Bigmouth Strikes Again", "Panic", "Ask", "Shoplifters of the World Unite", "Sheila Take a Bow", "Girlfriend in a Coma", "I Started Something I Couldn't Finish", "Last Night I Dreamt That Somebody Loved Me", "There Is a Light That Never Goes Out"],
-    "img": "https://upload.wikimedia.org/wikipedia/en/4/4b/SmithsSingles.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/4b/SmithsSingles.jpg",
+    "spotifyLink": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8?si=H-waKZHuQHGMwaCH8IbywQ",
+    "appleMusicLink": "https://music.apple.com/us/artist/the-smiths/829538"
   },
   {
     "title": "The Very Best of The Smiths",
@@ -209,7 +231,9 @@
     "ukPlatinum": true,
     "usGold": false,
     "songs": ["Panic", "The Boy with the Thorn in His Side", "Heaven Knows I'm Miserable Now", "Ask", "Bigmouth Strikes Again", "How Soon Is Now?", "This Charming Man", "What Difference Does It Make?", "William, It Was Really Nothing", "Some Girls Are Bigger Than Others", "Girlfriend in a Coma", "Hand in Glove", "There Is a Light That Never Goes Out", "Please, Please, Please, Let Me Get What I Want", "That Joke Isn't Funny Anymore", "I Know It's Over", "Sheila Take a Bow", "I Started Something I Couldn't Finish", "Still Ill", "Shakespeare's Sister", "Shoplifters of the World Unite", "Last Night I Dreamt That Somebody Loved Me", "Stop Me If You Think You've Heard This One Before"],
-    "img": "https://upload.wikimedia.org/wikipedia/en/e/ed/SmithsVeryBest.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/ed/SmithsVeryBest.jpg",
+    "spotifyLink": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8?si=H-waKZHuQHGMwaCH8IbywQ",
+    "appleMusicLink": "https://music.apple.com/us/artist/the-smiths/829538"
   },
   {
     "title": "The Sound of The Smiths",
@@ -226,7 +250,9 @@
     "ukPlatinum": true,
     "usGold": false,
     "songs": ["Hand In Glove", "This Charming Man", "What Difference Does It Make", "Still Ill", "Heaven Knows I'm Miserable Now", "William, It Was Really Nothing", "How Soon Is Now? (12'' Version)",	"Nowhere Fast", "Shakespeare's Sister", "Barbarism Begins At Home (7'' Version)", "That Joke Isn't Funny Anymore", "The Headmaster Ritual", "The Boy With The Thorn In His Side", "Bigmouth Strikes Again", "There Is A Light That Never Goes Out", "Panic", "Ask", "You Just Haven't Earned It Yet, Baby", "Shoplifters Of The World Unite", "Sheila Take A Bow", "Girlfriend In A Coma", "I Started Something I Couldn't Finish", "Last Night I Dreamt That Somebody Loved Me"],
-    "img": "https://upload.wikimedia.org/wikipedia/en/6/65/SmithsSoundOf.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/en/6/65/SmithsSoundOf.jpg",
+    "spotifyLink": "https://open.spotify.com/album/65IUZfizoxnc0WHnhEZjf3?si=S8Ub5fRPQtOpWUprixEXlw",
+    "appleMusicLink": "https://music.apple.com/us/album/the-sound-of-the-smiths-deluxe/800217913"
   },
   {
     "title": "The Smiths Singles Box",
@@ -244,7 +270,9 @@
     "usGold": false,
     "songs": ["Hand in Glove", "Handsome Devil (Live)", "This Charming Man (Manchester)", "This Charming Man (London)", "Accept Yourself", "Wonderful Woman", "Jeane", "This Charming Man (New York Vocal)", "This Charming Man (New York Instrumental)", "What Difference Does It Make?", "Back to the Old House", "These Things Take Time", "Heaven Knows I'm Miserable Now", "Girl Afraid", "Suffer Little Children", "William, It Was Really Nothing", "How Soon Is Now?", "Please, Please, Please, Let Me Get What I Want", "How Soon Is Now?", "Well I Wonder", "Oscillate Wildly", "Shakespeare's Sister", "What She Said", "Stretch Out and Wait", "Barbarism Begins at Home", "Shakespeare's Sister", "Stretch Out and Wait", "That Joke Isn't Funny Anymore", "Nowhere Fast (Live)", "Stretch Out and Wait (Live)", "Shakespeare's Sister (Live)", "Meat Is Murder (Live)", "The Boy with the Thorn in His Side", "Rubber Ring", "Asleep", "Bigmouth Strikes Again", "Money Changes Everything", "Unloveable"
     ],
-    "img": "https://upload.wikimedia.org/wikipedia/en/f/f9/The_Smiths_Singles_Box_cover.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f9/The_Smiths_Singles_Box_cover.jpg",
+    "spotifyLink": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8?si=H-waKZHuQHGMwaCH8IbywQ",
+    "appleMusicLink": "https://music.apple.com/us/artist/the-smiths/829538"
   },
   {
     "title": "Complete",
@@ -262,6 +290,8 @@
     "usGold": false,
     "songs": ["Reel Around The Fountain", "You've Got Everything Now", "Miserable Lie", "Pretty Girls Make Graves", "The Hand That Rocks The Cradle", "This Charming Man", "Still Ill", "Hand In Glove", "What Difference Does It Make?", "I Don't Owe You Anything", "Suffer Little Children", "The Headmaster Ritual", "Rusholme Ruffians", "I Want The One I Can't Have", "What She Said", "That Joke Isn't Funny Anymore", "Nowhere Fast", "Well I Wonder", "Barbarism Begins At Home", "Meat Is Murder", "The Queen Is Dead", "Frankly, Mr. Shankly", "I Know It's Over", "Never Had No One Ever", "Cemetry Gates", "Bigmouth Strikes Again", "The Boy With The Thorn In His Side", "Vicar In A Tutu", "There Is A Light That Never Goes Out", "Some Girls Are Bigger Than Others", "A Rush And A Push And The Land Is Ours", "I Started Something I Couldn't Finish", "Death Of A Disco Dancer", "Girlfriend In A Coma", "Stop Me If You Think You've Heard This One Before", "Last Night I Dreamt That Somebody Loved Me", "Unhappy Birthday", "Paint A Vulgar Picture", "Death At One's Elbow", "I Won't Share You", "The Queen Is Dead", "Panic", "Vicar in a Tutu", "Ask", "His Latest Flame/Rusholme Ruffians (Medley)", "The Boy with the Thorn in His Side", "Rubber Ring/What She Said (Medley)", "Is It Really So Strange?", "Cemetry Gates", "London", "I Know It's Over", "The Draize Train", "Still Ill", "Bigmouth Strikes Again", "William, It Was Really Nothing", "What Difference Does It Make?", "These Things Take Time", "This Charming Man", "How Soon Is Now?", "Handsome Devil", "Hand In Glove", "Still Ill", "Heaven Knows I'm Miserable Now", "This Night Has Opened My Eyes", "You've Got Everything Now", "Accept Yourself", "Girl Afraid", "Back To The Old House", "Reel Around The Fountain", "Please Please Please Let Me Get What I Want", "Panic", "Ask", "London", "Bigmouth Strikes Again", "Shakespeare's Sister", "There Is a Light That Never Goes Out", "Shoplifters of the World Unite", "The Boy with the Thorn in His Side", "Money Changes Everything", "Asleep", "Unloveable", "Half a Person", "Stretch Out and Wait", "That Joke Isn't Funny Anymore", "Oscillate Wildly", "You Just Haven't Earned It Yet, Baby", "Rubber Ring", "Golden Lights", "Is It Really So Strange?", "Sheila Take a Bow", "Shoplifters of the World Unite", "Sweet and Tender Hooligan", "Half a Person", "London", "Panic", "Girl Afraid", "Shakespeare's Sister", "William, It Was Really Nothing", "You Just Haven't Earned It Yet, Baby", "Heaven Knows I'm Miserable Now", "Ask", "Golden Lights", "Oscillate Wildly", "These Things Take Time", "Rubber Ring", "Back to the Old House", "Hand in Glove", "Stretch Out and Wait", "Please Please Please Let Me Get What I Want", "This Night Has Opened My Eyes", "Unloveable", "Asleep"
     ],
-    "img": "https://upload.wikimedia.org/wikipedia/en/5/55/The_Smiths_-_Complete_cover_art.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/55/The_Smiths_-_Complete_cover_art.jpg",
+    "spotifyLink": "https://open.spotify.com/album/30g571JKoxs8AnsgAViV2J?si=gE5q03lsSsGaQmTztlAAvg",
+    "appleMusicLink": "https://music.apple.com/us/album/complete/803459952"
   }
 ]  
