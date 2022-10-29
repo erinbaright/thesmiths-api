@@ -18,6 +18,7 @@ let Album = new Schema({
   releaseYear: { type: Number },
   lengthSeconds: { type: Number },
   lengthMinutes: { type: String },
+  genre: { type: String },
   albumType: { type: String },
   label: { type: String },
   ukChartPosition: { type: Number },
