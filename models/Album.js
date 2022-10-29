@@ -15,7 +15,8 @@ let Album = new Schema({
   ukGold: { type: Boolean },
   ukPlatinum: { type: Boolean },
   usGold: { type: Boolean },
-  songs: [{type: String}],
+  songs: [{ type: String }],
+  review: { type: String },
   img: { type: String },
   spotifyLink: { type: String },
   appleMusicLink: { type: String}

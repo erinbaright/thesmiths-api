@@ -26,6 +26,9 @@ let Album = new Schema({
   ukPlatinum: { type: Boolean },
   usGold: { type: Boolean },
   songs: [{type: String}],
-  img: { type: String }
+  review: { type: String },
+  img: { type: String },
+  spotifyLink: { type: String },
+  appleMusicLink: { type: String }
 });
 ```
