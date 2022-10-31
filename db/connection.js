@@ -1,10 +1,17 @@
 import mongoose from "mongoose";
 import chalk from "chalk";
 
+let mongooseConfig = {
+  useNewUrlParser: true,
+  useUnifiedTopology: true
+}
+
+const url = process.env.MONGO_URL || "mongodb://127.0.0.1:27017/thesmiths_db"
+
 mongoose.set("returnOriginal", false);
 
 mongoose
-  .connect(process.env.MONGO_URL || "mongodb://127.0.0.1:27017/thesmiths_db")
+  .connect(url, mongooseConfig)
   .catch((err) => {
     console.log(`Error connection go MongoDB: ${err.message}`);
   });
