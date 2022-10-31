@@ -2,13 +2,13 @@
 
 ### About
 
-REST API of The Smiths' discography with full CRUD functionality.
+REST API of the Smiths' discography with full CRUD functionality.
 
 ### Model
 
 Raw data on the albums is located in the albums.json file in the seed folder.
 
-A GET request at https://localhost:3000/albums would display all of The Smiths' albums. The model for the albums:
+A GET request at https://localhost:3000/albums would display all of the Smiths' albums. The model for the albums:
 
 ```
 let Album = new Schema({
