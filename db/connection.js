@@ -6,9 +6,9 @@ let mongooseConfig = {
   useUnifiedTopology: true
 }
 
-const url = process.env.MONGO_URL || "mongodb://127.0.0.1:27017/thesmiths_db"
+const url = process.env.MONGO_URI || "mongodb://127.0.0.1:27017/thesmiths_db"
 
-// mongoose.set("returnOriginal", false);
+mongoose.set("returnOriginal", false);
 
 mongoose
   .connect(url, mongooseConfig)
