@@ -8,7 +8,7 @@ let mongooseConfig = {
 
 const url = process.env.MONGO_URL || "mongodb://127.0.0.1:27017/thesmiths_db"
 
-mongoose.set("returnOriginal", false);
+// mongoose.set("returnOriginal", false);
 
 mongoose
   .connect(url, mongooseConfig)
