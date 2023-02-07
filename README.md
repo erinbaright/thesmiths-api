@@ -1,8 +1,12 @@
+<div align="center">
+
 # The Smiths API
+
+</div>
 
 ### About
 
-REST API of the Smiths' discography with full CRUD functionality.
+REST API of The Smiths' discography with full CRUD functionality.
 
 ### Model
 
@@ -32,3 +36,10 @@ let Album = new Schema({
   appleMusicLink: { type: String }
 });
 ```
+
+### Skills & Frameworks Used:
+
+- MongoDB, Mongoose, Express.js
+- JSON, JavaScript, Node.js
+- Data Modeling and Schemas
+- Routing, Postman, Railway, CRUD, Controller Logic
